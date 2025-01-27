@@ -1,1 +1,1 @@
-# dicoding_dashboard-data-analysis
+streamlit run app.py
